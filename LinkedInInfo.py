@@ -1,6 +1,5 @@
 from linkedin_api import Linkedin
 import pandas as pd
-#hello my name is aaroh
 
 # Ask user for their LinkedIn credentials
 user_email = input("Enter your LinkedIn email address: ")
